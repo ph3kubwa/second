@@ -3,8 +3,6 @@
     "api/process.php": {
       "runtime": "vercel-php@0.1.0"
     }
-  },
-  "routes": [
-    { "src": "/(.*)",  "dest": "/api/index.html" }
-  ]
+  }
+  
 }
